@@ -1,2 +1,2 @@
-# Newt
-Pint sized with a Punch.
+# Newty
+Pint sized with a Punch
